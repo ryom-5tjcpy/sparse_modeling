@@ -5,6 +5,8 @@ from sklearn.metrics import mean_squared_error
 import matplotlib.pyplot as plt
 import pandas as pd
 
+import matplotlib_fontja
+
 # 1. データ生成とノイズの追加
 # -----------------------------------------------------
 
